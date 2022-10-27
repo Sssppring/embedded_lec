@@ -84,3 +84,6 @@ if __name__ == '__main__':
   task1.start()
   main()
   bleSerial.close()
+
+
+  
